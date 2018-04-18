@@ -96,7 +96,8 @@
 * MAKE. A. STRONG. FOUNDATION.
 * Rate of change order for design systems: foundation > governance > documentation > people > patterns (like components) > tooling
 * Care about what you name things
-* Goes without saying, but design systesm are hard and demands many people and teams - not a good option even for some large companies
+* Goes without saying, but design systems are hard and demands many people and teams - not a good option even for some large companies
+* Make your design system feel like "home" - comfortable and familiar
 
 ## _Beyond_ Media Queries
 
@@ -115,3 +116,14 @@
 * Change the value, not the variable
 * Use them - just do it - **progressive enhancement bruv**
 * Element media queries...?
+
+## Digital Interfaces
+
+* Key aspects: repetition, evolution, ownership, usablity
+* A website is like a temporary stay (hotel) - an application is more permanent (home)
+* Websites should have a clear message immediately - you don't have time to build up repetition
+* Applications should delight in the repeat actions
+* Reserve motion for important actions (sort of like a reward) - don't overuse it!
+* Prioritize functional over asthetic
+* You can't make everyone happy with your interface
+* Find a balance between user comfort and meeting business need (personally I prefer comfort)
