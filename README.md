@@ -1,11 +1,13 @@
-# General Design
+# Day 1
+
+## General Design
 
 * Be itterative in the whiteboard - "version control" for design
 * Get to the point - it's easy to over think a design
 * Inspiration can come from design of simple tangible things
 * Great design is a constant - apply it to everything
 
-# CSS Grid
+## CSS Grid
 
 * Fixed units in relation to sizing in grid - understand why things are sized the way they are without percentages
 * Three types of sizing - fixed, intrinsic, and flexible
@@ -29,7 +31,7 @@
 * IE11 doesn't support feature queries - nuuuuu
 * Code without grid to start and adapt to it with feature queries
 
-# Web Design
+## Web Design
 
 * Care about states like `:focus` and `:active` - don't remove defaults, make them better
 * [Localization tips](https://slack.engineering/localizing-slack-680c4bc7f45a)
@@ -37,7 +39,7 @@
 * Don't get ahead of yourself - a strong foundation is important
 * Markup first - clean html is the highest priority - use css for proper formatting
 
-# User Experience
+## User Experience
 
 * Understand people and their lives - design better experiences
 * Expect people to be distracted while using your interface - _VERY GOOD THOUGHT_
@@ -52,7 +54,7 @@
 * People work in models - consider how a person expects to order coffee? buy a movie tickets? order a product?
 * So... how do you innovate then? You can't really...? Use it to guide people down new paths if you want, but you just can't change for the sake of change
 
-# Script & Load Time Optimization
+## Script & Load Time Optimization
 
 * 3rd party scripts can get out of hand fast
 * If you notice the bloat, say something about it!
