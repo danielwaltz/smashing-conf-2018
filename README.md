@@ -91,7 +91,7 @@
 ## Design Systems
 
 * The rate on change is different depending on the layers in your application or website
-* Reusabliity & automation in this field is out of neccesity - there just aren't enough of us
+* Reusabliity & automation in this field is out of necessity - there just aren't enough of us
 * We're in an era of design systems :3
 * MAKE. A. STRONG. FOUNDATION.
 * Rate of change order for design systems: foundation > governance > documentation > people > patterns (like components) > tooling
@@ -102,16 +102,16 @@
 ## _Beyond_ Media Queries
 
 * Maybe don't rely only on media queries
-* Using media queries is like a heatmap - you cater to break points sizes and the further you stray from the definiations the less the design properly fits the screen
+* Using media queries is like a heatmap - you cater to break points sizes and the further you stray from the definitions the less the design properly fits the screen
 * How can we design without breakpoints?
 * Fluid typography - `calc()` with `vw` for font sizing - **AWESOME IDEA**
-* Magic prop `font-size: calc(18px + 3vw);`
+* Magic property `font-size: calc(18px + 3vw);`
 * Change the rate of scale with `font-size: calc(16px + (24 - 16) * (100vw - 400px) / (800 - 400));`
 * SASS mixins available - neat!
 * [Typescale](https://type-scale.com/) to generate module scale
 * SVG can help too!
 * Flex hack `flex-grow: 9999;`
-* CSS custom proporties (variables) are dynamic - lots of fun options!
+* CSS custom properties (variables) are dynamic - lots of fun options!
 * Custom props are scoped but inherited
 * Change the value, not the variable
 * Use them - just do it - **progressive enhancement bruv**
