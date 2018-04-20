@@ -107,6 +107,7 @@
 * Fluid typography - `calc()` with `vw` for font sizing - **AWESOME IDEA**
 * Magic property `font-size: calc(18px + 3vw);`
 * Change the rate of scale with `font-size: calc(16px + (24 - 16) * (100vw - 400px) / (800 - 400));`
+* Can use it for `line-height` too!
 * SASS mixins available - neat!
 * [Typescale](https://type-scale.com/) to generate module scale
 * SVG can help too!
@@ -127,3 +128,14 @@
 * Prioritize functional over asthetic
 * You can't make everyone happy with your interface
 * Find a balance between user comfort and meeting business need (personally I prefer comfort)
+
+# Workshop
+
+* Start with the heart of the site - the most reused pages
+* Mobile first development working your way up screen sizes
+* When prototyping, force height on elements to guess content size
+* Smashing is completely flat file/static site (using `hugo`) - including comments! **AWESOME**
+* `display: contents;` melts my brain - could be super useful but _holy shit_
+* [Grid garden](http://cssgridgarden.com/)
+* `72.66.115.13` IP black hole - change `/etc/hosts` to remove requests
+* JavaScript observers seem powerful - look into them in depth
