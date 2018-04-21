@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 - [doc](http://smashed.by/sfday1)
 
 ## General Design
 
@@ -86,7 +86,7 @@
 * If you _have_ to focus on one metric, focus
   on "time to interactive"
 
-# Day 2
+# Day 2 - [doc](http://smashed.by/sfday2)
 
 ## Design Systems
 
@@ -129,7 +129,7 @@
 * You can't make everyone happy with your interface
 * Find a balance between user comfort and meeting business need (personally I prefer comfort)
 
-# Workshop
+# Workshop - [doc](http://smashed.by/sanfran18)
 
 * Start with the heart of the site - the most reused pages
 * Mobile first development working your way up screen sizes
